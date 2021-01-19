@@ -14,9 +14,7 @@ organizations:
   url: https://www.jchogroup.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach, provide a
-comprehensive, diversified and complete professional services, including urban planning and design, architectural
-design and project management consultants services.
+bio: JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach, provide a comprehensive, diversified and complete professional services, including urban planning and design, architectural design and project management consultants services.
 
 # Interests to show in About widget
 interests:
