@@ -47,7 +47,7 @@ experience:
     date_end: ''
     description: ''
     
-      - title: Designer
+  - title: Designer
     company: RBA Group
     company_url: ''
     location: New Jersey, USA
@@ -55,7 +55,7 @@ experience:
     date_end: ''
     description: ''
     
-      - title: Designer
+  - title: Designer
     company: Peter Zweig Architects
     company_url: ''
     location: Texas, USA
