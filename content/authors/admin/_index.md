@@ -1,26 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: JC Ho
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Principal Architect and Founder
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: JC Group
+  url: https://www.jchogroup.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach, provide a
+comprehensive, diversified and complete professional services, including urban planning and design, architectural
+design and project management consultants services.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Architects
+- Planners
+- Engineers
 
 # Education to show in About widget
 education:
