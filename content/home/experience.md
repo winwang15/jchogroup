@@ -22,24 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Principal
+    company: JC Group
+    company_url: 'https://jchogroup.com/'
+    location: Taiwan
+    date_start: '2000'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Principal
+    company: JC Group
+    company_url: 'https://jchogroup.com'
+    location: New Jersey, USA
+    date_start: '1994'
+    date_end: ''
+
+
+  - title: Senior Architect
+    company: Pacific Engerineers & Constructors, LTD.
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Taiwan
+    date_start: '1993'
+    date_end: ''
+    
+      - title: Designer
+    company: RBA Group
+    company_url: ''
+    location: New Jersey, USA
+    date_start: '1987'
+    date_end: ''
+    
+      - title: Designer
+    company: Peter Zweig Architects
+    company_url: ''
+    location: Texas, USA
+    date_start: '1986'
+    date_end: ''
+    
+
 ---
