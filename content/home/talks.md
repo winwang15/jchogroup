@@ -10,7 +10,7 @@ headless: false
 weight: 70
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: false
 
 content:
   # Page type to display. E.g. post, event, publication...
