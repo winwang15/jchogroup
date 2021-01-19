@@ -28,6 +28,7 @@ experience:
     location: Taiwan
     date_start: '2000'
     date_end: ''
+    description: ''
 
         
   - title: Principal
@@ -36,7 +37,7 @@ experience:
     location: New Jersey, USA
     date_start: '1994'
     date_end: ''
-
+    description: ''
 
   - title: Senior Architect
     company: Pacific Engerineers & Constructors, LTD.
@@ -44,6 +45,7 @@ experience:
     location: Taiwan
     date_start: '1993'
     date_end: ''
+    description: ''
     
       - title: Designer
     company: RBA Group
@@ -51,6 +53,7 @@ experience:
     location: New Jersey, USA
     date_start: '1987'
     date_end: ''
+    description: ''
     
       - title: Designer
     company: Peter Zweig Architects
@@ -58,6 +61,7 @@ experience:
     location: Texas, USA
     date_start: '1986'
     date_end: ''
+    description: ''
     
 
 ---
