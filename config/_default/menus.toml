@@ -5,27 +5,27 @@
 
 [[main]]
   name = "Home"
-  url = "#home"
+  url = "home"
   weight = 10
 
 [[main]]
   name = "About Us"
-  url = "#aboutus"
+  url = "aboutus"
   weight = 20
 
 [[main]]
   name = "Experience"
-  url = "#experience"
+  url = "experience"
   weight = 30
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "projects"
   weight = 40
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "contact"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
