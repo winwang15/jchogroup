@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -26,7 +26,7 @@ experience:
     company: JC Group
     company_url: 'https://jchogroup.com/'
     location: Taiwan
-    date_start: '2000'
+    date_start: '2000-01-01'
     date_end: ''
     description: ''
 
@@ -35,7 +35,7 @@ experience:
     company: JC Group
     company_url: 'https://jchogroup.com'
     location: New Jersey, USA
-    date_start: '1994'
+    date_start: '1994-01-01'
     date_end: ''
     description: ''
 
@@ -43,7 +43,7 @@ experience:
     company: Pacific Engerineers & Constructors, LTD.
     company_url: ''
     location: Taiwan
-    date_start: '1993'
+    date_start: '1993-01-01'
     date_end: ''
     description: ''
     
@@ -51,7 +51,7 @@ experience:
     company: RBA Group
     company_url: ''
     location: New Jersey, USA
-    date_start: '1987'
+    date_start: '1987-01-01'
     date_end: ''
     description: ''
     
@@ -59,7 +59,7 @@ experience:
     company: Peter Zweig Architects
     company_url: ''
     location: Texas, USA
-    date_start: '1986'
+    date_start: '1986-01-01'
     date_end: ''
     description: ''
     
