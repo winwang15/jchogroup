@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: Project Management of H4HH1
-    tag: 'Development', 'Vietnam', 'Project Management'
+    tag: Development, Vietnam, Project Management
   - name: Project Management of Lot A3 
-    tag: 'Development', 'Vietnam', 'Project Management'
+    tag: Development, Vietnam, Project Management
   - name: The One West Lake
-    tag: 'Architecture', 'Vietnam'
+    tag: Architecture, Vietnam
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
