@@ -14,8 +14,20 @@ image:
 
 gallery_item: 
 - album: gallery
+  image: 'H4HH1 Site Indices Table.png'
+  caption: ''
+  gallery_item: 
+- album: gallery
   image: 'H4HH1 Site Indices Floor Plan.png'
-  caption: 'test caption'
+  caption: ''
+  gallery_item: 
+- album: gallery
+  image: 'H4HH1 Site Indices Plan.png'
+  caption: ''
+  gallery_item: 
+- album: gallery
+  image: 'H4HH1 Site Indices Overview.png'
+  caption: ''
 
 links:
 - icon: ""
