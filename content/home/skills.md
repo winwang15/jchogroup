@@ -19,7 +19,7 @@ feature:
 - description: ""
   icon: archway
   icon_pack: fas
-  name: Architecture
+  name: Architect
 - description: ""
   icon: hotel
   icon_pack: fas
