@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Current Projects
+title: Projects
 subtitle: ''
 
 content:
@@ -26,11 +26,11 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Project Management of H4HH1
-    tag: 'Development'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+    tag: 'Development', 'Vietnam', 'Project Management'
+  - name: Project Management of Lot A3 
+    tag: 'Development', 'Vietnam', 'Project Management'
+  - name: The One West Lake
+    tag: 'Architecture', 'Vietnam'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
