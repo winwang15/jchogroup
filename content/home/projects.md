@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Current Projects
 subtitle: ''
 
 content:
@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
+  - name: Project Management of H4HH1
+    tag: 'Development'
   - name: Deep Learning
     tag: Deep Learning
   - name: Other
