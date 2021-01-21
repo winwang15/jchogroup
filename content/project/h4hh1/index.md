@@ -47,8 +47,6 @@ slides: ""
 ---
 
 
-Site Indices
-
 The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
 
 {{< gallery album="gallery" >}}
