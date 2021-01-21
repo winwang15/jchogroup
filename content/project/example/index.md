@@ -2,7 +2,7 @@
 title: Project Management of H4HH1 
 summary: Star Lake Master Plan
 tags:
-- Project Management, Vietnam
+- Project Management, Vietnam, Project Management of H4HH1, Development
 date: ""
 
 # Optional external URL for project (replaces project detail page).
