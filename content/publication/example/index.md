@@ -1,19 +1,18 @@
 ---
-title: "An example conference paper"
+title: "Star Lake Master Plan"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,14 +25,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: ""
+publication_short: ""
 
 abstract: The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
 
 tags: []
 
@@ -57,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'H4HH1 Site Indices'
   focal_point: ""
   preview_only: false
 
