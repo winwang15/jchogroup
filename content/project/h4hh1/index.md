@@ -33,11 +33,6 @@ gallery_item:
   image: 'H4HH1 Site Indices Overview.png'
   caption: ''
 
-links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
