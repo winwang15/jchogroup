@@ -12,6 +12,11 @@ image:
   caption: H4HH1 Site Indices
   focal_point: Smart
 
+gallery_item: 
+- album: gallery
+  image: 'H4HH1 Site Indices Floor Plan.png'
+  caption: 'test caption'
+
 links:
 - icon: ""
   icon_pack: ""
@@ -29,6 +34,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+{{< gallery album="gallery" >}}
 
 The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
 
