@@ -33,6 +33,12 @@ content:
     tag: Development, Vietnam, Project Management
   - name: The One West Lake
     tag: Architecture, Vietnam
+  - name: Park Height Villas
+    tag: Development, Vietnam, Architecture, Villas
+  - name: Embassy Bayview
+    tag: Architecture, Vietnam
+  - name: Project Management of Services of Park Height 10
+    tag: Development, Vietnam, Project Management
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
