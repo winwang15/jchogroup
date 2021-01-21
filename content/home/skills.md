@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Architecture
 - description: ""
-  icon: hotle
+  icon: hotel
   icon_pack: fas
   name: Developer
 - description: ""
