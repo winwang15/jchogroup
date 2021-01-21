@@ -19,15 +19,15 @@ feature:
 - description: ""
   icon: archway
   icon_pack: fas
-  name: archway
-- description: 100%
-  icon: chart-line
+  name: Architecture
+- description: ""
+  icon: building
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Developer
+- description: ""
+  icon: :triangular_ruler:
+  icon_pack: emoji
+  name: Engineer
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
