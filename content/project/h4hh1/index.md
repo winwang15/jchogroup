@@ -33,6 +33,24 @@ gallery_item:
 - album: gallery
   image: 'H4HH1 Site Indices Overview.png'
   caption: ''
+  
+  
+  gallery_item: 
+- album: sitedev
+  image: 'H4HH1 Site Indices Table.png'
+  caption: ''
+  gallery_item: 
+- album: sitedev
+  image: 'H4HH1 Site Indices Floor Plan.png'
+  caption: ''
+  gallery_item: 
+- album: sitedev
+  image: 'H4HH1 Site Indices Plan.png'
+  caption: ''
+  gallery_item: 
+- album: sitedev
+  image: 'H4HH1 Site Indices Overview.png'
+  caption: ''
 
 url_code: ""
 url_pdf: ""
@@ -47,7 +65,18 @@ url_video: ""
 slides: ""
 ---
 
+Site Indices
 
 The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
 
 {{< gallery album="gallery" >}}
+
+
+
+
+Site Development
+
+The main concept:  An envisage mix use development in the Mega Capital City                                                                                                A remarkable site , with grade A office tower next to MRT Plaza , Service residence mixed with a 3 stories Shopping Arcade, the tranquil residential tower surrounded by 8,000M2 Private gardens and 5 star Amenities provide a hermit place in this Mega city.
+
+
+{{< gallery album="sitedev" >}}
