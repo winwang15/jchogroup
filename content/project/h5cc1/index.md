@@ -17,11 +17,6 @@ gallery_item:
   image: 'H4HH1 Site Indices Floor Plan.png'
   caption: 'test caption'
 
-links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
