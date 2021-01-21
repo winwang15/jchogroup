@@ -21,12 +21,12 @@ feature:
   icon_pack: fas
   name: Architecture
 - description: ""
-  icon: building
+  icon: hotle
   icon_pack: fas
   name: Developer
 - description: ""
-  icon: triangular_ruler:
-  icon_pack: emoji
+  icon: network-wired
+  icon_pack: fas
   name: Engineer
 
 # Uncomment to use emoji icons.
