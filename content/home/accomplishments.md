@@ -1,7 +1,8 @@
 ---
+# Label should be updated to Licenses
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: licenses
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -25,11 +26,11 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2016-01-01"
+  date_start: "2000-01-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: ""
+  organization_url: ""
+  title: Taiwan Registered Architect
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
