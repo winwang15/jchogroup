@@ -2,7 +2,11 @@
 title: Project Management of H4HH1 
 summary: Star Lake Master Plan
 tags:
-- Project Management, Vietnam, Project Management of H4HH1, Development
+- Project Management
+- Vietnam
+- Project Management of H4HH1
+- Development
+
 date: ""
 
 # Optional external URL for project (replaces project detail page).
@@ -47,6 +51,8 @@ url_video: ""
 slides: ""
 ---
 {{< gallery album="gallery" >}}
+
+Site Indices
 
 The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
 
