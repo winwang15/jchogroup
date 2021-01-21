@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Developer
 - description: ""
-  icon: :triangular_ruler:
+  icon: triangular_ruler:
   icon_pack: emoji
   name: Engineer
 
