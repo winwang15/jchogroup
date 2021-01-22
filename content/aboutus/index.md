@@ -29,6 +29,18 @@ gallery_item:
 - album: gallery
   image: 'H4HH1 Site Indices Overview.png'
   caption: ''
+gallery_item: 
+- album: aboutus
+  image: 'Licenses.png'
+  caption: ''
+  gallery_item: 
+- album: aboutus
+  image: 'Centered.png'
+  caption: ''
+  gallery_item: 
+- album: aboutus
+  image: 'Profile.png'
+  caption: ''
 
 
 # Slides (optional).
