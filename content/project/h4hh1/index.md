@@ -18,7 +18,7 @@ external_link: ""
 
 image:
   caption: H4HH1 Site Indices
-  focal_point: Smart
+  focal_point: Center
 
 gallery_item: 
 - album: gallery
@@ -87,5 +87,4 @@ _Landscape Planning_
 
 The pacific Heights cover a green area of more than 10,000m2 mixed with 800 evergreen trees & season‘s planters abundant with aroma fragrance will naturally summon the birds, butterfly to make H4HH1 an ecological gardens in the new CBD .
 
-
-{{< gallery album="landscape" >}}
+{{< figure src="H4HH1 Site Development Landscape Planning.png" title="" >}}
