@@ -15,22 +15,17 @@ image:
 
 gallery_item: 
 - album: gallery
-  image: 'Licenses.PNG'
+  image: 'Licenses.png'
   caption: ''
 gallery_item: 
 - album: gallery
   gallery_item: 
-  image: 'Centered.jpg'
+  image: 'Centered.png'
   caption: ''
 gallery_item: 
 - album: gallery
   gallery_item: 
-  image: 'Profile.jpg'
-  caption: ''
-gallery_item: 
-- album: gallery
-  gallery_item: 
-  image: 'H4HH1 Site Indices Table.png'
+  image: 'Profile.png'
   caption: ''
 
 
