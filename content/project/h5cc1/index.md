@@ -20,15 +20,15 @@ image:
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Floor Plan Overview.png'
-  caption: 'Site Plan'  
+  caption: Site Plan  
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Floor Plan Towers.png'
-  caption: 'Typical Towers Floor Plan'  
+  caption: Typical Towers Floor Plan
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Landscape Plan.png'
-  caption: 'Landscape Plan'
+  caption: Landscape Plan
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Exterior.png'
