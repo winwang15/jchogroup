@@ -17,10 +17,12 @@ gallery_item:
 - album: gallery
   image: 'Licenses.PNG'
   caption: ''
+gallery_item: 
 - album: gallery
   gallery_item: 
   image: 'Centered.jpg'
   caption: ''
+gallery_item: 
 - album: gallery
   gallery_item: 
   image: 'Profile.jpg'
