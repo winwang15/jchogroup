@@ -1,5 +1,5 @@
 ---
-title: "Star Lake Master Plan"
+title: "Project Management of H4HH1"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -16,7 +16,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,6 +29,7 @@ publication: ""
 publication_short: ""
 
 abstract: The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
+
 
 
 # Summary. An optional shortened abstract.
@@ -44,6 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url: "/project/h4hh1/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
