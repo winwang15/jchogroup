@@ -40,7 +40,8 @@ content:
     - One Park Height Villas
     - Park Heights 8
   - name: Taiwan
-    tag: Sun Moon Lake
+    tag: 
+    - Sun Moon Lake
     - NTU Hospital
     - Taipei Station
     - Military Campus
@@ -60,7 +61,8 @@ content:
     - Alishan Fushan Trail
     - Tainan Seaport
   - name: United States
-    tag: United States
+    tag: 
+    - United States
     - Pershing Square
     - Chinatown Community Service Facility
 
