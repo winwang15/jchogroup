@@ -27,6 +27,11 @@ gallery_item:
   gallery_item: 
   image: 'Profile.jpg'
   caption: ''
+gallery_item: 
+- album: gallery
+  gallery_item: 
+  image: 'H4HH1 Site Indices Table.png'
+  caption: ''
 
 
 # Slides (optional).
