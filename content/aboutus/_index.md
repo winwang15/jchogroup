@@ -15,11 +15,13 @@ image:
 
 gallery_item: 
 - album: gallery
-  image: 'Licenses.png'
+  image: 'Licenses.PNG'
   caption: ''
+- album: gallery
   gallery_item: 
   image: 'Centered.jpg'
   caption: ''
+- album: gallery
   gallery_item: 
   image: 'Profile.jpg'
   caption: ''
