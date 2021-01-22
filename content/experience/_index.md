@@ -1,5 +1,5 @@
 ---
-title: Post
+title: Projects
 
   # Choose a view for the listings:
   #   1 = List
