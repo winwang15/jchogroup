@@ -1,5 +1,12 @@
 ---
-title: Projects
+title: Experience
+
+links:
+  - icon_pack: fas
+    icon: file
+    name: View Resume
+    url: ''
+
 
   # Choose a view for the listings:
   #   1 = List
