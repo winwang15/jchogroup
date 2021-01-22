@@ -5,8 +5,7 @@ subtitle: West Lake, Hanoi, Vietnam
 tags:
 - Vietnam
 - Embassy Heights for H5CC1 
-- Development
-- Eco-friendly
+
 
 date: ""
 
