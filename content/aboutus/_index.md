@@ -9,14 +9,14 @@ date: ""
 external_link: ""
 
 image:
-  caption: JC Ho Group
+  caption: Jen Chun (JC Ho), founder JC Ho Group
   focal_point: Center
 
 
 links:
-  - icon_pack: fas
-    icon: file
-    name: Test
+  - icon_pack: ''
+    icon: ''
+    name: ''
     url: ''
 url_code: ""
 url_pdf: ""
@@ -40,9 +40,7 @@ Our design philosophy is consider the values of life style. In each case, we use
   
 **Company Vision**
 
-_Trust_
-_Integrity_
-_Value_
+_Trust, Integrity, and Value_
 
 The vigorous development of information technology network, Internet has become an indispensable tool of our lifestyle and work, 
  JC GROUP  creative design of intelligent smart green building application in a wide variety of architectural patterns, Accurate and convenient features use the Internet to do remote monitoring functions of each subsystem, Made to cross each other than recording data analysis, Achieve the goal of building management, this is a new trend in the 21st century architectural design.
