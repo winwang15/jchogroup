@@ -1,53 +1,30 @@
 ---
-title: About the Company
-subtitle: ''
-summary: ''
+# An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: contact
 
+# This file represents a page section.
+headless: true
 
-date: ""
+# Order that this section appears on the page.
+weight: 130
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+title: Contact
+subtitle:
 
-image:
-  caption: Jen Chun (JC Ho), founder JC Group
-  focal_point: Center
-
-
-gallery_item: 
-- album: aboutus
-  image: 'Licenses.png'
-  caption: ''
-  gallery_item: 
-- album: aboutus
-  image: 'Centered.png'
-  caption: ''
-  gallery_item: 
-- album: aboutus
-  image: 'Profile.png'
-  caption: ''
-
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
----
-
-JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach,  provide a comprehensive, diversified and complete professional services, including urban planning and design, architectural design and project management consultants services.
-
-**Mission Statement**
-
-Our design philosophy is consider the values of life style. In each case, we use site planning and value management as a professional knowledge and to create a clear expedient solution for the goal.
-
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
   
-**Company Vision**
-
-_Trust, Integrity, and Value_
-
-The vigorous development of information technology network, Internet has become an indispensable tool of our lifestyle and work, 
- JC GROUP  creative design of intelligent smart green building application in a wide variety of architectural patterns, Accurate and convenient features use the Internet to do remote monitoring functions of each subsystem, Made to cross each other than recording data analysis, Achieve the goal of building management, this is a new trend in the 21st century architectural design.
-
-{{< gallery album="gallery" >}}
+  # Email form provider
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
+  
+design:
+  columns: '2'
+---
