@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Experience
 
   # Choose a view for the listings:
   #   1 = List
