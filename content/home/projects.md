@@ -27,11 +27,11 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Project Management of H4HH1
+  - name: Vietnam 
+    tag: Project Management of H4HH1, Vietnam, Project Management of Lot A3, The One West Lake, Park Height Villas, Embassy Bayview, Project Management of Park Height 10, Park Height 15, One Park Height Villas
+  - name: Taiwan
     tag: Development, Vietnam, Project Management
-  - name: Project Management of Lot A3 
-    tag: Development, Vietnam, Project Management
-  - name: The One West Lake
+  - name: United States
     tag: Architecture, Vietnam
   - name: Park Height Villas
     tag: Development, Vietnam, Architecture, Villas
