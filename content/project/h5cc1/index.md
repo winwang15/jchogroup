@@ -1,6 +1,6 @@
 ---
 title: Embassy Heights for H5CC1 
-summary: ""
+summary: Site Plans
 subtitle: West Lake, Hanoi, Vietnam
 tags:
 - Vietnam
@@ -19,8 +19,22 @@ image:
 
 gallery_item: 
 - album: gallery
-  image: 'H4HH1 Site Indices Floor Plan.png'
+  image: 'H5CC1 Floor Plan Overview.png'
+  caption: ''  
+gallery_item: 
+- album: gallery
+  image: 'H5CC1 Floor Plan Towers.png'
+  caption: ''  
+gallery_item: 
+- album: gallery
+  image: 'H5CC1 Landscape Plan.png'
   caption: ''
+gallery_item: 
+- album: gallery
+  image: 'H5CC1 Exterior.png'
+  caption: ''
+
+
 
 url_code: ""
 url_pdf: ""
