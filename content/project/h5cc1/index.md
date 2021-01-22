@@ -32,7 +32,18 @@ gallery_item:
 - album: gallery
   image: 'H5CC1 Exterior.png'
   caption: ''
-
+gallery_item: 
+- album: gallery
+  image: 'Licenses.png'
+  caption: ''
+  gallery_item: 
+- album: gallery
+  image: 'Centered.png'
+  caption: ''
+  gallery_item: 
+- album: gallery
+  image: 'Profile.png'
+  caption: ''
 
 
 url_code: ""
