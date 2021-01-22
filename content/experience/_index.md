@@ -2,9 +2,10 @@
 title: Experience
 
 links:
-  - icon_pack: fab
+  - icon_pack: fas
     icon: file
     name: View Resume
+    url: ''
 
 
   # Choose a view for the listings:
