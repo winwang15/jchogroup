@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "JC Ho Group"
+org_name = "JC Group"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -228,7 +228,8 @@ plugins_js  = []
 ############################
 [search]
   # Search provider:
-  #   0: No search engine
+  #   0: No search 
+  
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
   engine = 1
