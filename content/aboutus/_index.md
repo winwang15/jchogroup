@@ -8,11 +8,6 @@ date: ""
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Jen Chun (JC Ho), founder JC Ho Group
-  focal_point: Center
-
-
 gallery_item: 
 - album: gallery
   image: 'Licenses.png'
@@ -27,6 +22,10 @@ gallery_item:
   gallery_item: 
   image: 'Profile.png'
   caption: ''
+
+image:
+  caption: Jen Chun (JC Ho), founder JC Ho Group
+  focal_point: Center
 
 
 # Slides (optional).
