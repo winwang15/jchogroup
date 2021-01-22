@@ -10,17 +10,17 @@ external_link: ""
 
 gallery_item: 
 - album: gallery
-  image: 'Licenses.png'
+  image: Licenses.png
   caption: ''
 gallery_item: 
 - album: gallery
   gallery_item: 
-  image: 'Centered.png'
+  image: Centered.png
   caption: ''
 gallery_item: 
 - album: gallery
   gallery_item: 
-  image: 'Profile.png'
+  image: Profile.png
   caption: ''
 
 image:
