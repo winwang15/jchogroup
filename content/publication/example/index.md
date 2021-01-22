@@ -8,9 +8,9 @@ authors:
 - admin
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: ""
 doi: ""
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url: "/project/h4hh1/"
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
