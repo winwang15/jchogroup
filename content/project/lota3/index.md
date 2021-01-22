@@ -1,15 +1,11 @@
 ---
-title: Project Management of H4HH1 
-subtitle: Star Lake, Hanoi, Vietnam
-summary: Star Lake Master Plan
+title: Project Management of Lot A3 Development 
+subtitle: Hanoi, Vietnam
+summary: Lot A3 Development 
 tags:
-- Project Management
+- Lot A3 Development 
 - Vietnam
-- Project Management of H4HH1
-- Development
-- Site Development
-- Landscape Planning
-- Design
+
 
 date: ""
 
