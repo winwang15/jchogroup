@@ -28,7 +28,8 @@ content:
   - name: All
     tag: '*'
   - name: Vietnam 
-    tag: Project Management of H4HH1
+    tag: 
+    - Project Management of H4HH1
     - Vietnam
     - Project Management of Lot A3
     - The One West Lake
