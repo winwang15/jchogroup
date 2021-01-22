@@ -1,7 +1,6 @@
 ---
 title: About the Company
 
-
 - album: landscape
   image: ''
   caption: '' 
