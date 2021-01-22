@@ -37,20 +37,13 @@ gallery_item:
   
   gallery_item: 
 - album: sitedev
-  image: 'H4HH1 Site Indices Table.png'
+  image: 'H4HH1 Site Development Exterior.png'
   caption: ''
   gallery_item: 
 - album: sitedev
-  image: 'H4HH1 Site Indices Floor Plan.png'
+  image: 'H4HH1 Site Development Floor Plan.png'
   caption: ''
-  gallery_item: 
-- album: sitedev
-  image: 'H4HH1 Site Indices Plan.png'
-  caption: ''
-  gallery_item: 
-- album: sitedev
-  image: 'H4HH1 Site Indices Overview.png'
-  caption: ''
+
 
 url_code: ""
 url_pdf: ""
