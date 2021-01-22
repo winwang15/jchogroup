@@ -1,10 +1,7 @@
 ---
-title: Project Management of H4HH1 
-subtitle: Star Lake, Hanoi, Vietnam
-summary: Star Lake Master Plan
-tags:
-- Vietnam
-- Project Management of H4HH1
+title: About the Company
+subtitle: ''
+summary: ''
 
 
 date: ""
@@ -13,46 +10,23 @@ date: ""
 external_link: ""
 
 image:
-  caption: H4HH1 Site Indices
+  caption: Jen Chun (JC Ho), founder JC Group
   focal_point: Center
 
 gallery_item: 
-- album: gallery
-  image: 'H4HH1 Site Indices Table.png'
+- album: aboutus
+  image: 'Licenses.png'
   caption: ''
   gallery_item: 
-- album: gallery
-  image: 'H4HH1 Site Indices Floor Plan.png'
+- album: aboutus
+  image: 'Centered.png'
   caption: ''
   gallery_item: 
-- album: gallery
-  image: 'H4HH1 Site Indices Plan.png'
-  caption: ''
-  gallery_item: 
-- album: gallery
-  image: 'H4HH1 Site Indices Overview.png'
-  caption: ''
-  
-  
-  gallery_item: 
-- album: sitedev
-  image: 'H4HH1 Site Development Exterior.png'
-  caption: ''
-  gallery_item: 
-- album: sitedev
-  image: 'H4HH1 Site Development Floor Plan.png'
+- album: aboutus
+  image: 'Profile.png'
   caption: ''
 
 
-  gallery_item: 
-- album: landscape
-  image: 'H4HH1 Site Development Exterior.png'
-  caption: ''
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -62,25 +36,18 @@ url_video: ""
 slides: ""
 ---
 
-**Site Indices**
+JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach,  provide a comprehensive, diversified and complete professional services, including urban planning and design, architectural design and project management consultants services.
 
-The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
+**Mission Statement**
 
-{{< gallery album="gallery" >}}
+Our design philosophy is consider the values of life style. In each case, we use site planning and value management as a professional knowledge and to create a clear expedient solution for the goal.
 
+  
+**Company Vision**
 
+_Trust, Integrity, and Value_
 
+The vigorous development of information technology network, Internet has become an indispensable tool of our lifestyle and work, 
+ JC GROUP  creative design of intelligent smart green building application in a wide variety of architectural patterns, Accurate and convenient features use the Internet to do remote monitoring functions of each subsystem, Made to cross each other than recording data analysis, Achieve the goal of building management, this is a new trend in the 21st century architectural design.
 
-**Site Development**
-
-The main concept:  An envisage mix use development in the Mega Capital City                                                                                                A remarkable site , with grade A office tower next to MRT Plaza , Service residence mixed with a 3 stories Shopping Arcade, the tranquil residential tower surrounded by 8,000M2 Private gardens and 5 star Amenities provide a hermit place in this Mega city.
-
-
-{{< gallery album="sitedev" >}}
-
-
-_Landscape Planning_
-
-The pacific Heights cover a green area of more than 10,000m2 mixed with 800 evergreen trees & season‘s planters abundant with aroma fragrance will naturally summon the birds, butterfly to make H4HH1 an ecological gardens in the new CBD .
-
-{{< figure src="H4HH1 Site Development Landscape Planning.png" title="" >}}
+{{< gallery album="aboutus" >}}
