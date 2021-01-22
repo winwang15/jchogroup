@@ -19,11 +19,11 @@ gallery_item:
   caption: ''
   gallery_item: 
 - album: gallery
-  image: 'Centered.png'
+  image: 'Centered.jpg'
   caption: ''
   gallery_item: 
 - album: gallery
-  image: 'Profile.png'
+  image: 'Profile.jpg'
   caption: ''
 
 
