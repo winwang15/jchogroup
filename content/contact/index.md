@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: About the Company
 subtitle: ''
 summary: ''
 
