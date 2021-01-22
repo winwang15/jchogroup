@@ -73,6 +73,3 @@ email: ""
 highlight_name: false
 ---
 JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach, provide a comprehensive, diversified and complete professional services, including urban planning and design, architectural design and project management consultants services.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
