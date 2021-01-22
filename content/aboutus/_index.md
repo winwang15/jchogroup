@@ -12,7 +12,18 @@ image:
   caption: Jen Chun (JC Ho), founder JC Ho Group
   focal_point: Center
 
-
+gallery item:
+- album: gallery
+  image: Licenses
+  caption: ''
+gallery item:
+- album: gallery
+  image: Centered
+  caption: ''
+gallery item:
+- album: gallery
+  image: Profile
+  caption: ''
 
 
 # Slides (optional).
