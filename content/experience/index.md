@@ -1,5 +1,5 @@
 ---
-title: About the Company
+title: Experience
 subtitle: ''
 summary: ''
 
@@ -10,8 +10,8 @@ date: ""
 external_link: ""
 
 image:
-  caption: Jen Chun (JC Ho), founder JC Group
-  focal_point: Center
+  caption: ''
+  focal_point: ''
 
 
 gallery_item: 
