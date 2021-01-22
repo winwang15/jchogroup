@@ -32,6 +32,7 @@ gallery item:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
 
 JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach,  provide a comprehensive, diversified and complete professional services, including urban planning and design, architectural design and project management consultants services.
