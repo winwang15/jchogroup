@@ -14,18 +14,21 @@ image:
   focal_point: Center
 
 gallery_item: 
-- album: aboutus
-  image: 'Licenses.png'
+- album: gallery
+  image: 'H4HH1 Site Indices Table.png'
   caption: ''
   gallery_item: 
-- album: aboutus
-  image: 'Centered.png'
+- album: gallery
+  image: 'H4HH1 Site Indices Floor Plan.png'
   caption: ''
   gallery_item: 
-- album: aboutus
-  image: 'Profile.png'
+- album: gallery
+  image: 'H4HH1 Site Indices Plan.png'
   caption: ''
-
+  gallery_item: 
+- album: gallery
+  image: 'H4HH1 Site Indices Overview.png'
+  caption: ''
 
 
 # Slides (optional).
