@@ -28,11 +28,40 @@ content:
   - name: All
     tag: '*'
   - name: Vietnam 
-    tag: Project Management of H4HH1, Vietnam, Project Management of Lot A3, The One West Lake, Park Height Villas, Embassy Bayview, Project Management of Park Height 10, Park Height 15, One Park Height Villas, Park Heights 8
+    tag: Project Management of H4HH1
+    - Vietnam
+    - Project Management of Lot A3
+    - The One West Lake
+    - Park Height Villas
+    - Embassy Bayview
+    - Project Management of Park Height 10 
+    - Park Height 15
+    - One Park Height Villas
+    - Park Heights 8
   - name: Taiwan
-    tag: Sun Moon Lake, NTU Hospital, Taipei Station, Military Campus, NTUB Taoyuan Campus, NTU, Taipei City, NTHU, Executive Enforcement Department, Liang-Zheng Office, Sun Yat-Sen Memorial Hall, Guanshan Art Center, Taoyuan Agricultural Cultural Park, Hschinchu City Military Museum, Hakka Cultural Exhibition Hall, Pingtun Fishing Pier, Lantan Scenic Area, Taiwan, Jiayi County, Alishan Fushan Trail, Tainan Seaport
+    tag: Sun Moon Lake
+    - NTU Hospital
+    - Taipei Station
+    - Military Campus
+    - NTUB Taoyuan Campus
+    - NTU
+    - Taipei City
+    - NTHU, Executive Enforcement Department
+    - Liang-Zheng Office
+    - Sun Yat-Sen Memorial Hall
+    - Guanshan Art Center
+    - Taoyuan Agricultural Cultural Park
+    - Hschinchu City Military Museum
+    - Hakka Cultural Exhibition Hall
+    - Pingtun Fishing Pier
+    - Lantan Scenic Area
+    - Taiwan, Jiayi County
+    - Alishan Fushan Trail
+    - Tainan Seaport
   - name: United States
-    tag: United States, Pershing Square, Chinatown Community Service Facility
+    tag: United States
+    - Pershing Square
+    - Chinatown Community Service Facility
 
 
 design:
