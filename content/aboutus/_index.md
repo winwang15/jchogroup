@@ -18,11 +18,9 @@ gallery_item:
   image: 'Licenses.png'
   caption: ''
   gallery_item: 
-- album: gallery
   image: 'Centered.jpg'
   caption: ''
   gallery_item: 
-- album: gallery
   image: 'Profile.jpg'
   caption: ''
 
