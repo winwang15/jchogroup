@@ -12,17 +12,18 @@ image:
   caption: Jen Chun (JC Ho), founder JC Ho Group
   focal_point: Center
 
-gallery item:
+
+gallery_item: 
 - album: gallery
-  image: Licenses
+  image: 'Licenses.png'
   caption: ''
-gallery item:
+  gallery_item: 
 - album: gallery
-  image: Centered
+  image: 'Centered.png'
   caption: ''
-gallery item:
+  gallery_item: 
 - album: gallery
-  image: Profile
+  image: 'Profile.png'
   caption: ''
 
 
@@ -32,8 +33,8 @@ gallery item:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-
 ---
+
 
 JC GROUP founded in 1993, New Jersey, USA, adopt international Professional team approach,  provide a comprehensive, diversified and complete professional services, including urban planning and design, architectural design and project management consultants services.
 
