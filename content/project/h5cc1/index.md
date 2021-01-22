@@ -20,15 +20,15 @@ image:
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Floor Plan Overview.png'
-  caption: ''  
+  caption: 'Site Plan'  
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Floor Plan Towers.png'
-  caption: ''  
+  caption: 'Typical Towers Floor Plan'  
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Landscape Plan.png'
-  caption: ''
+  caption: 'Landscape Plan'
 gallery_item: 
 - album: gallery
   image: 'H5CC1 Exterior.png'
@@ -48,8 +48,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-{{< gallery album="gallery" >}}
 
 The main planning concept is SHARING, the four towers buildings are enclosed by open green square and private ecological garden, to achieve economic , eco-friendly and sustainable development goals. The green building design, smart technology  and excellent quality of community environment, will lead Hanoi  real estate, enhance market quality competitiveness.
 
+{{< gallery album="gallery" >}}
 
