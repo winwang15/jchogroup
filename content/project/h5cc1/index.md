@@ -1,21 +1,26 @@
 ---
-title: Project Management of H5CC1 
-summary: Star Lake Master Plan
+title: Embassy Heights for H5CC1 
+summary: ""
+subtitle: West Lake, Hanoi, Vietnam
 tags:
-- Project Management, Vietnam, Project Management of H4HH1, Development
+- Vietnam
+- Embassy Heights for H5CC1 
+- Development
+- Eco-friendly
+
 date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: H4HH1 Site Indices
-  focal_point: Smart
+  caption: "Embassy Heights"
+  focal_point: Center
 
 gallery_item: 
 - album: gallery
   image: 'H4HH1 Site Indices Floor Plan.png'
-  caption: 'test caption'
+  caption: ''
 
 url_code: ""
 url_pdf: ""
@@ -31,5 +36,6 @@ slides: ""
 ---
 {{< gallery album="gallery" >}}
 
-The air and the water is harmony coexisting in natural space of the West Lake, connected to the green space and the lake constitutes a natural harmony reflection with the living environment. Connected with the Hoa Binh Park, Friendship Park, and West Lake, Star Lake intertwined with the ecological vegetation and water to create the ideal habitation for the residents.
+The main planning concept is SHARING, the four towers buildings are enclosed by open green square and private ecological garden, to achieve economic , eco-friendly and sustainable development goals. The green building design, smart technology  and excellent quality of community environment, will lead Hanoi  real estate, enhance market quality competitiveness.
+
 
